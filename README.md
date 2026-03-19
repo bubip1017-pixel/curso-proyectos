@@ -9,7 +9,6 @@ Universidad Peruana Cayetano Heredia
 
 <p align="center">
   <img width="399" height="378" alt="Captura de pantalla 2026-03-19 152845" src="https://github.com/user-attachments/assets/64262a05-a110-4a69-a59a-43e2a067e852" />
-<img width="399" height="378" alt="Captura de pantalla 2026-03-19 152845" src="https://github.com/user-attachments/assets/64262a05-a110-4a69-a59a-43e2a067e852" />
 
 ---
 
