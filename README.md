@@ -1,6 +1,5 @@
-Aquí tienes un diseño en Markdown inspirado en las imágenes que compartiste (perfil + banner + texto estructurado). Incluye un espacio listo para insertar tu imagen:
 
-```md id="8k3p2x"
+
 # ¡Hola! Soy Oscar Manuel Herrera Tumba 👋
 
 **Estudiante de Ingeniería Ambiental (7mo ciclo)**  
@@ -33,8 +32,6 @@ Me enfoco en aportar soluciones sostenibles y generar conciencia ambiental media
 **Email:** oscar.herrera@upch.pe
 ```
 
-🔧 Solo reemplaza `TU_IMAGEN_AQUI` con la ruta o link de tu imagen.
-Si quieres, puedo adaptarlo a estilo más tipo *tarjeta horizontal* como en la segunda imagen.
 
 # curso-proyectos
 
